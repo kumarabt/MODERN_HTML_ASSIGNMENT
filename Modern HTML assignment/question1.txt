@@ -1,0 +1,38 @@
+HTML 5 is the new and currently the latest version of HTML in the world of web development, there are some
+additional features that are added to HTML 5 that makes it more convient for both web developers and search
+engines.
+
+Below mentioned are the 5 features of HTML 5:
+
+1. SEMANTIC TAGS: HTML5 introduced a new set of semantic tags that is used to create meaningful webpages.
+                  Since, previously only div tag can be used as a container as we define class in that 
+                  as header, footer, and nav etc. in it. But, now after HTML5 we can directly used tags
+                  like <header>,<footer>,<article>,<nav> and section etc. and can add meaning to our webpages.
+                  this provides better clarity of content type and helps in organization of content, that 
+                  makes it easier for search engines and web crawlers to understand and interpret web page
+                  structure.
+
+2. AUDIO AND VIDEO SUPPORT: HTML5 includes inbuilt support for audio and video elements through the 
+                            <audio> and <video> tags. This eliminates the need for third party plugins
+                            like Adobe Flash, that's need to be done previously. And allow developers to
+                            embed audio and video content directly into the web pages.
+
+3. CANVAS AND SVG GRAPHICS: HTML5 introduced the <canvas> tag which provides the dynamic, scriptable
+                            rendering of 2D shapes and bitmap images. HTML5 canvas also helps a developers
+                            making 2D games.
+                            Also, HTML5 has included the advanced support of SVG i.e. Scalable vector GRAPHICS
+                            allowing us the access to high quality images and it completely avoided the repturing
+                            of images i.e. problem with others like png and jpg formats of images.
+
+4. LOCAL STORAGE: HTML5 introduced the 'localStorage' and 'sessionStorage' API's, which enables web applications
+                  to store data locally on the user's device.This local storage capability allows for the
+                  creation of offline web applications and can improve performance by reducing the need
+                  of constant server requests.
+
+5. HTML FORM ADVANCEMENTS: HTML5 introduced several form input types and attributes that improves user
+                           experience and validation. New input types include 'email','url','number'
+                           'date' and 'range' etc. which help browsers to provide better input validation.
+                           Additionally, HTML5 also introduced 'placeholder' attribute in input fields and
+                           the required 'attribute' for mandatory form fields, and the <datalist>
+                           element for providing predefined options for input fields. 
+              

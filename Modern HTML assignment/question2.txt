@@ -1,0 +1,13 @@
+HTML entities are the special codes or characters used in HTML to represent characters that have some
+special meanings or cannot be easily represented using the standard keyboard characters.
+
+They are particularly useful when we want to display characters like <,>,& or certain symbols like
+copyright symbol etc.
+
+The list of 5 commonly used HTML5 entities are written below:
+
+1. &copy - used for rendering copyright symbol on webpage.
+2. &lt - used for rendering less than sign(<) on webpage.
+3. &gt - used for rendering grater than sign(>) on webpage.
+4. &amp - used to render Ampersand(&) symbol on webpage.
+5. &qout - used to render double qoutation mark(") on the webpage.

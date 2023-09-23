@@ -1,0 +1,17 @@
+The 3 ways in which we can improve the accessibility of HTML are as follows:
+
+1. We can use the newly introduced semantic tags in our html code to appropriately convey the meaning and 
+structure of the content present in our web page. We can use tags like <main>, <aside>, <nav>, <section>,
+<header> and <footer> semantic tags in our html code. Semantic markup in our html code helps screen readers
+to understand the context and structure of our content in website and that improves the accessibility of
+our website.
+
+2. By providing alternative text to images, as it provides the textual description of image to visually
+disabled people and hence, improving the accessibility of our website also when the image fails to load
+alt attribute provides a textual description of the image to the user.
+
+3. Also, we can link our label tag's for attribute to input tag id attribute by providing them the same
+value, this will link both label and input fields in forms together. This helps screen readers to provide
+context of form fields to peoples with some disability and hence, improves the accessibility of our 
+website.
+    

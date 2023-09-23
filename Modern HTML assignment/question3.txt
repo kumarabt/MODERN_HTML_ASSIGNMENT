@@ -1,0 +1,14 @@
+Accessibility in the context of Web-development refers to the practise of designing and developing 
+websites and web-applications in such a way that ensures people with hearing, sight or other type of
+disabilities to percieve, navigate, interact and understand the content effectively without any difficulty.
+
+it is essential to create accessible websites because a website is used by a large number of peoples
+and some of them are not comfortable with non-accessible websites due to their sight, hearing or 
+other diffrent types of disabilities.
+So, it always becomes a prime responsibility of a developer to make accessible websites that can easily
+be used by people having certain kinds of disabilities.
+
+Creation of more and more Accessible websites definetely benifits diffrent user groups that includes 
+user groups having certain disability in percieving content.
+For EG: A user group having sight disability will be grately beniffited by the accessible website that
+that has screen reader inculcated in it.
